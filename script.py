@@ -2,7 +2,7 @@ import pyautogui
 import argparse
 import time
 
-POSITION = (689, 285)
+POSITION = (755, 294)
 SAVEPOSITION = (31, 355)
 
 #Instructions:
